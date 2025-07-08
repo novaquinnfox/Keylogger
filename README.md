@@ -35,14 +35,14 @@ This is a simple Python-based **keylogger** built using the `keyboard` module. I
 ## How To Run:
 
 1. Clone this repository
-  `git clone https://github.com/yourusername/python-keylogger.git`
-  `cd python-keylogger`
+  >`git clone https://github.com/novaquinnfox/Keylogger.git)`
+  >`cd python-keylogger`
 2. Install dependencies
-  `pip install keyboard`
+  >  `pip install keyboard`
 3. Run the script as Administrator
-  `python keylogger.py`
+  >  `python keylogger.py`
 4. Switch to another window (like Notepad or a browser)
- -Type something
- -Press Enter
- -The text will be saved in keylog_data.txt
+ -  Type something
+ -  Press Enter
+ -  The text will be saved in keylog_data.txt
 5. Press `Esc` to stop the keylogger and safely exit.
