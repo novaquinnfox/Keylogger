@@ -17,7 +17,7 @@ This is a simple Python-based **keylogger** built using the `keyboard` module. I
 
 ## Disclaimer
 
-> **This tool is for learning and research purposes only.**
+>**This tool is intended for educational and research purposes only.**
 >
 > Unauthorized use of keyloggers is **illegal** and **unethical**.  
 > Do **not** use this script on any device you do not own or have explicit permission to analyze.
@@ -31,3 +31,18 @@ This is a simple Python-based **keylogger** built using the `keyboard` module. I
 - Python module:
   ```bash
   pip install keyboard
+
+## How To Run:
+
+1. Clone this repository
+  `git clone https://github.com/yourusername/python-keylogger.git`
+  `cd python-keylogger`
+2. Install dependencies
+  `pip install keyboard`
+3. Run the script as Administrator
+  `python keylogger.py`
+4. Switch to another window (like Notepad or a browser)
+ -Type something
+ -Press Enter
+ -The text will be saved in keylog_data.txt
+5. Press `Esc` to stop the keylogger and safely exit.
