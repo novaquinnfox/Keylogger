@@ -35,7 +35,8 @@ This is a simple Python-based **keylogger** built using the `keyboard` module. I
 ## How To Run:
 
 1. Clone this repository
-  >`git clone https://github.com/novaquinnfox/Keylogger.git)`
+  >`git clone https://github.com/novaquinnfox/Keylogger.git`
+>
   >`cd python-keylogger`
 2. Install dependencies
   >  `pip install keyboard`
