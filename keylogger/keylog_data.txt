@@ -1,0 +1,11 @@
+[2025-07-08 12:09:29] this is the test script 12345
+[2025-07-08 12:09:51] 
+[2025-07-08 12:09:58] 
+[2025-07-08 12:09:59] 
+[2025-07-08 12:09:59] 
+[2025-07-08 12:10:00] 
+[2025-07-08 12:12:13] this this the test case script. this is fed as input to the logger 
+[2025-07-08 12:12:39] all the entries and keystrokes are being logged 
+[2025-07-08 12:12:57] untill the program is manually terminated 
+[2025-07-08 12:13:19] test complete :) :)
+[2025-07-08 12:13:23] :)
